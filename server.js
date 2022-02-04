@@ -19,4 +19,4 @@ app.use('/', router)
 
 app.listen(port, () => {
     console.log(`Listening on the port ${port}`);
-});
+}); 
